@@ -1,0 +1,11 @@
+ID,NAME,AGE
+1,lzj,28
+2,tom,20
+3,terry,30
+4,lerry,18
+5,bob,25
+6,linda,27
+7,marry,39
+8,long,22
+9,kin,33
+10,jiken,40
